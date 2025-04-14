@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hani Rashed</h1>
+<h1 align="center">Hi 👋 I'm Hani Rashed</h1>
 <h3 align="center">Angular Frontend Developer</h3>
 
 # 💫 About Me:
 
-Front-end developer with +3 years of experience in web development using Angular and React.js. <br>
+Front-end developer with 4 years of experience in web development using Angular and React.js. <br>
 Strong knowledge of building responsive, user-friendly web applications considering best practices and clean code. <br>
 Always Keeping myself up to date with the latest technologies and industry trends.<br>
 
